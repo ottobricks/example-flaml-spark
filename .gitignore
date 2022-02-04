@@ -1,0 +1,6 @@
+data/
+project/
+logs/
+target/
+.metals/
+.vscode/
